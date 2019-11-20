@@ -77,9 +77,9 @@ exit
 elif [ $ch -eq 4 ];then
 clear
 echo -e "\e[1;33m"
-figlet TBomb
+figlet Ali_Bombsms
 echo -e "\e[1;34mCreated By \e[1;34m"
-toilet -f mono12 -F border SpeedX
+toilet -f JaneMeriye -F border Aliraza
 echo  " "
 echo -e "\e[1;32m                   Features\e[1;34m"
 echo "  [+] Unlimited And Super-Fast Bombing"
